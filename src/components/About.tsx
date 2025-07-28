@@ -27,7 +27,7 @@ const About = () => {
                   <h3 className="text-xl font-semibold mb-3 text-foreground">Personal Details</h3>
                   <div className="space-y-2 text-muted-foreground">
                     <p><span className="font-medium text-foreground">Born:</span> February 17, 2004</p>
-                    <p><span className="font-medium text-foreground">Age:</span> 20 years old</p>
+                    <p><span className="font-medium text-foreground">Age:</span> 21 years old</p>
                     <p><span className="font-medium text-foreground">Location:</span> Johannesburg, South Africa</p>
                     <p><span className="font-medium text-foreground">Phone:</span> +27 66 157 0078</p>
                   </div>
