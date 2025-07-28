@@ -94,9 +94,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-subtle mt-12 pt-8 text-center">
           <p className="text-muted-foreground flex items-center justify-center gap-2 text-sm">
-            © 2024 Tebogo Seopa. Built with 
-            <Heart className="w-4 h-4 text-red-500 fill-current" />
-            using React & TypeScript
+            © 2024. Build by Tebogo Seopa using React & TypeScript
           </p>
         </div>
       </div>
