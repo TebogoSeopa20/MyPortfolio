@@ -1,3 +1,3 @@
-# Welcome to Tebogo Jan Seopa's Prtfolio
+# Welcome to Tebogo Jan Seopa's Portfolio
 
 
