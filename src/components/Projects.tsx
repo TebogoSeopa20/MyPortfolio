@@ -25,8 +25,7 @@ const Projects = () => {
               </div>
               <h3 className="text-xl font-bold mb-3 text-foreground">Projects Coming Soon</h3>
               <p className="text-muted-foreground mb-6 leading-relaxed">
-                I'm currently working on exciting projects that showcase my skills in full-stack development, 
-                AI/ML integration, and innovative web solutions.
+                Most of my projects are private for obvious reasons. However, I'm currently working on exciting projects that highlight my skills in full-stack development, AI/ML integration, and innovative web solutions. Stay tuned — more to come soon!
               </p>
               <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-3 py-2 rounded-lg text-sm font-medium">
                 <Sparkles className="w-4 h-4" />
