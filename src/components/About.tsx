@@ -43,8 +43,8 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-semibold mb-3 text-foreground">Current Status</h3>
                   <p className="text-muted-foreground mb-4 leading-relaxed">
-                    Final year Computer Science student at the University of the Witwatersrand, 
-                    graduating in 2025. Passionate about creating innovative solutions and contributing 
+                    Final year Computer Science student at the University of the Witwatersrand, completing my degree in 2025 and 
+                    graduating in 2026. Passionate about creating innovative solutions and contributing 
                     to open source projects.
                   </p>
                   <div className="flex items-center gap-2 text-sm bg-accent/10 text-accent px-3 py-2 rounded-lg font-medium">
