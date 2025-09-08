@@ -50,7 +50,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center lg:justify-start pt-4">
               <a 
-                href="https://github.com/TebogoSeopa20" 
+                href="https://github.com/TebogoSeopa20?tab=repositories" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-3 bg-white rounded-xl shadow-soft hover:shadow-medium transition-all duration-300 hover:-translate-y-1 text-foreground hover:text-primary"
