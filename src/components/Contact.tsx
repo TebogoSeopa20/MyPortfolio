@@ -32,7 +32,7 @@ const Contact = () => {
       icon: Github,
       label: "GitHub",
       value: "TebogoSeopa20",
-      href: "https://github.com/TebogoSeopa20",
+      href: "https://github.com/TebogoSeopa20?tab=repositories",
       primary: false,
       description: "Explore my code and contributions"
     }
