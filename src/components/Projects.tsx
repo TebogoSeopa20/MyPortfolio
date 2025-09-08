@@ -47,7 +47,7 @@ const Projects = () => {
               </p>
               <Button variant="outline" asChild className="group-hover:bg-accent group-hover:text-white group-hover:border-accent">
                 <a 
-                  href="https://github.com/TebogoSeopa20" 
+                  href="https://github.com/TebogoSeopa20?tab=repositories" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2"
