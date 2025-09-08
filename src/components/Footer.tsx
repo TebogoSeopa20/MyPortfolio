@@ -72,7 +72,7 @@ const Footer = () => {
             
             <div className="flex gap-3 pt-2">
               <a 
-                href="https://github.com/TebogoSeopa20" 
+                href="https://github.com/TebogoSeopa20?tab=repositories" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-3 bg-white rounded-lg shadow-soft hover:shadow-medium hover:bg-primary hover:text-white transition-all duration-300 hover:-translate-y-1"
